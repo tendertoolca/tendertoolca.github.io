@@ -7303,8 +7303,14 @@ html {
 }
 #stage .container.container-pod {
     padding-top: 48px;
+    padding-bottom: 48px
+}
+
+#stage .container.container-podcustom {
+    padding-top: 48px;
     padding-bottom: 0px
 }
+
 #stage .container.container-pod.container-pod-short {
     padding-top: 32px;
     padding-bottom: 32px
@@ -7380,8 +7386,14 @@ html {
 @media (min-width: 768px) {
     #stage .container.container-pod {
         padding-top: 64px;
+        padding-bottom: 64px
+    }
+	
+	#stage .container.container-podcustom {
+        padding-top: 64px;
         padding-bottom: 0
     }
+	
     #stage .container.container-pod.container-pod-short {
         padding-top: 48px;
         padding-bottom: 48px
@@ -7393,6 +7405,11 @@ html {
 }
 @media (min-width: 992px) {
     #stage .container.container-pod {
+        padding-top: 96px;
+        padding-bottom: 96px
+    }
+	
+	    #stage .container.container-podcustom {
         padding-top: 96px;
         padding-bottom: 0px
     }
@@ -7408,8 +7425,14 @@ html {
 @media (min-width: 1600px) {
     #stage .container.container-pod {
         padding-top: 120px;
+        padding-bottom: 120px
+    }
+	
+	#stage .container.container-podcustom {
+        padding-top: 120px;
         padding-bottom: 0px
     }
+	
     #stage .container.container-pod.container-pod-short {
         padding-top: 80px;
         padding-bottom: 80px
