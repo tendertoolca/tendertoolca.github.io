@@ -2212,7 +2212,7 @@
 }
 #stage.home #home-introduction .home-introduction-title {
     font-family: proxima-nova-alt, Helvetica, Arial, sans-serif;
-    font-size: 32px;
+    font-size: 29px;
     font-weight: 100;
     line-height: 36px;
     text-transform: normal;
@@ -2768,7 +2768,7 @@
         text-align: left
     }
     #stage.home #home-introduction .home-introduction-title {
-        font-size: 35.2px;
+        font-size: 33px;
         line-height: 39.6px;
         margin: 49.5px 0 33px 0
     }
@@ -3039,7 +3039,7 @@
 }
 @media (min-width: 992px) {
     #stage.home #home-introduction .home-introduction-title {
-        font-size: 57.6px;
+        font-size: 52px;
         line-height: 64.8px;
         margin: 81px 0 54px 0
     }
@@ -3289,7 +3289,7 @@
 }
 @media (min-width: 1600px) {
     #stage.home #home-introduction .home-introduction-title {
-        font-size: 64px;
+        font-size: 56px;
         line-height: 72px;
         margin: 90px 0 60px 0
     }

@@ -7551,8 +7551,8 @@ header .container.container-pod.container-pod-short {
 #header .header-logo,
 header .header-logo {
     display: block;
-    width: 120.6px;
-    height: 36px;
+    width: 338.75px;
+    height: 44px;
     background-image: url(../images/layout/header/header-logoaca7.png?cache=817163539);
     behavior: url(../js/libs/CSS3Pie/PIE.htc);
     background-size: 100% 100%;
@@ -7650,8 +7650,8 @@ header.inverse .header-logo {
     }
     #header .header-logo,
     header .header-logo {
-        width: 176.88px;
-        height: 52.8px;
+        width: 476.9px;
+        height: 62.8px;
         margin-top: 0;
         margin-bottom: 0
     }
@@ -7684,8 +7684,8 @@ header.inverse .header-logo {
     }
     #header .header-logo,
     header .header-logo {
-        width: 192.96px;
-        height: 57.6px;
+        width: 538.8px;
+        height: 70px;
         margin-top: 0;
         margin-bottom: 0
     }
@@ -7714,8 +7714,8 @@ header.inverse .header-logo {
     }
     #header .header-logo,
     header .header-logo {
-        width: 209.04px;
-        height: 62.4px;
+        width: 556.7px;
+        height: 72.4px;
         margin-top: 0;
         margin-bottom: 0
     }
@@ -7807,8 +7807,8 @@ footer .attribution ul li a span {
 #footer .attribution ul li.socialist a,
 footer .attribution ul li.socialist a {
     background-image: url(../images/layout/header/header-logo-inverse32d8.png?cache=64582485);
-    width: 100.5px;
-    height: 30px
+    width: 284.425px;
+    height: 37px
 }
 #footer .badges,
 footer .badges {
