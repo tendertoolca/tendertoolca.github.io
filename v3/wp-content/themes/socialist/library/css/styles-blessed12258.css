@@ -7408,7 +7408,7 @@ html {
 @media (min-width: 1600px) {
     #stage .container.container-pod {
         padding-top: 120px;
-        padding-bottom: 120px
+        padding-bottom: 0px
     }
     #stage .container.container-pod.container-pod-short {
         padding-top: 80px;
