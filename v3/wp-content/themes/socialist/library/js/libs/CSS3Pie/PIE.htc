@@ -1,0 +1,4 @@
+<br />
+<b>Warning</b>:  include(PIE.htc): failed to open stream: No such file or directory in <b>/nfs/c09/h01/mnt/210849/domains/sociali.st/html/wp-content/themes/socialist/library/js/libs/CSS3Pie/PIE.php</b> on line <b>18</b><br />
+<br />
+<b>Warning</b>:  include(): Failed opening 'PIE.htc' for inclusion (include_path='.:/usr/local/php-7.0.6/share/pear') in <b>/nfs/c09/h01/mnt/210849/domains/sociali.st/html/wp-content/themes/socialist/library/js/libs/CSS3Pie/PIE.php</b> on line <b>18</b><br />
