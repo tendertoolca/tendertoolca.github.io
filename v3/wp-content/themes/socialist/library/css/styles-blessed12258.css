@@ -7341,7 +7341,7 @@ html {
     color: #fff
 }
 #stage .stage-pod.stage-pod-red {
-    background: #fd3c2b
+    background: #ffb200
 }
 #stage .stage-pod.stage-pod-red a:not(.button) {
     color: #fff
@@ -7379,7 +7379,7 @@ html {
     color: #ffe2df
 }
 #stage .stage-pod.stage-pod-red.stage-pod-red-pattern {
-    background-image: url(../images/layout/stage/stage-pod-red-pattern-background138a.jpg?cache=692789579);
+    background-image: url(../images/layout/stage/backgroundimage.jpg?cache=692789579);
     behavior: url(../js/libs/CSS3Pie/PIE.htc);
     background-size: 3000px 1000px
 }
