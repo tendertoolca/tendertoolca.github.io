@@ -2642,7 +2642,7 @@ select[size] {
     color: #fbc8a6
 }
 .form-group.form-group-error label {
-    color: #fd3c2b
+    color: #ff9900
 }
 .form-group.form-group-error .help-block {
     color: #fe9e95
@@ -2669,7 +2669,7 @@ select[size] {
     -webkit-filter: none;
     filter: none;
     border-color: none;
-    color: #fd3c2b;
+    color: #ff9900;
     text-shadow: none;
     background-color: #fff5f4;
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(none), to(none));
@@ -2790,7 +2790,7 @@ select[size] {
     -webkit-filter: none;
     filter: none;
     border-color: none;
-    color: #fd3c2b;
+    color: #ff9900;
     text-shadow: none;
     background-color: #ffebea;
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(none), to(none));
@@ -2977,7 +2977,7 @@ select[size] {
     -webkit-filter: none;
     filter: none;
     border-color: none;
-    color: #fd3c2b;
+    color: #ff9900;
     text-shadow: none;
     background-color: #fff5f4;
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(none), to(none));
@@ -3146,7 +3146,7 @@ select[size] {
     -webkit-filter: none;
     filter: none;
     border-color: none;
-    color: #fd3c2b;
+    color: #ff9900;
     text-shadow: none;
     background-color: #fff5f4;
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(none), to(none));
@@ -3267,7 +3267,7 @@ select[size] {
     -webkit-filter: none;
     filter: none;
     border-color: none;
-    color: #fd3c2b;
+    color: #ff9900;
     text-shadow: none;
     background-color: #ffebea;
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(none), to(none));
@@ -3454,7 +3454,7 @@ select[size] {
     -webkit-filter: none;
     filter: none;
     border-color: none;
-    color: #fd3c2b;
+    color: #ff9900;
     text-shadow: none;
     background-color: #fff5f4;
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(none), to(none));
@@ -6403,7 +6403,7 @@ a:active img.image-framed {
     border-color: none;
     color: #fff;
     text-shadow: none;
-    background-color: #fd3c2b;
+    background-color: #ff9900;
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(none), to(none));
     background-image: -webkit-linear-gradient(top, none, none);
     background-image: -webkit-linear-gradient(top, none, none);
@@ -7464,7 +7464,7 @@ html {
     line-height: 36px;
     text-transform: normal;
     font-style: normal;
-    color: #fd3c2b;
+    color: #ff9900;
     margin: 45px 0 30px 0
 }
 #page #page-header .page-header-title.tall {

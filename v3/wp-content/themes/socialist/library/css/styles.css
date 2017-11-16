@@ -2217,7 +2217,7 @@
     line-height: 36px;
     text-transform: normal;
     font-style: normal;
-    color: #fd3c2b;
+    color: #ff9900;
     margin: 45px 0 30px 0
 }
 #stage.home #home-introduction .home-introduction-title.tall {
@@ -2608,7 +2608,7 @@
     behavior: url(../js/libs/CSS3Pie/PIE.htc)
 }
 #stage.home #home-footer #home-footer-mailing-list p.lead {
-    color: #fd3c2b
+    color: #ff9900
 }
 #stage.home #home-footer #home-footer-mailing-list:before {
     content: '';
@@ -2675,7 +2675,7 @@
     background: -webkit-linear-gradient(left, rgba(253, 60, 43, 0) 0, rgba(253, 60, 43, 0) 50%, rgba(253, 60, 43, .05) 100%);
     background: -webkit-linear-gradient(left, rgba(253, 60, 43, 0) 0, rgba(253, 60, 43, 0) 50%, rgba(253, 60, 43, .05) 100%);
     background: linear-gradient(to right, rgba(253, 60, 43, 0) 0, rgba(253, 60, 43, 0) 50%, rgba(253, 60, 43, .05) 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#00fd3c2b', endColorstr='#0dfd3c2b', GradientType=1)
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#00ff9900', endColorstr='#0dff9900', GradientType=1)
 }
 #stage.home .waves.waves-red.waves-right .wave-mask {
     background: -webkit-gradient(linear, left top, right top, color-stop(0, rgba(255, 255, 255, 0)), color-stop(66.66666667%, #fff), color-stop(100%, #fff));
@@ -2691,7 +2691,7 @@
     background: -webkit-linear-gradient(left, rgba(253, 60, 43, .05) 0, rgba(253, 60, 43, 0) 50%, rgba(253, 60, 43, 0) 100%);
     background: -webkit-linear-gradient(left, rgba(253, 60, 43, .05) 0, rgba(253, 60, 43, 0) 50%, rgba(253, 60, 43, 0) 100%);
     background: linear-gradient(to right, rgba(253, 60, 43, .05) 0, rgba(253, 60, 43, 0) 50%, rgba(253, 60, 43, 0) 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#0dfd3c2b', endColorstr='#00fd3c2b', GradientType=1)
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#0dff9900', endColorstr='#00ff9900', GradientType=1)
 }
 #stage.home .waves.waves-blue.waves-left .wave-mask {
     background: -webkit-gradient(linear, left top, right top, color-stop(0, #fff), color-stop(33.33333333%, #fff), color-stop(100%, rgba(255, 255, 255, 0)));
@@ -4149,7 +4149,7 @@
     background: #0c0a01
 }
 #stage.styleguide .colorscale.red .color {
-    background: #fd3c2b
+    background: #ff9900
 }
 #stage.styleguide .colorscale.red .color.lighten-05 {
     background: #fd4636
