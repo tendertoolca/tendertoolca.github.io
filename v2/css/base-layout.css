@@ -225,7 +225,7 @@ img.retina {
   background-color: #85daef;
 }
 .panel.secondary {
-  background-color: #84ecaf;
+  background-color: #ffb300;
 }
 .panel.tertiary {
   background-color: #e76851;
@@ -389,7 +389,7 @@ img.retina {
   cursor: pointer;
 }
 .testimonal .flexslider .flex-control-paging li a.flex-active {
-  border-color: #84ecaf;
+  border-color: #ffb300;
 }
 /* Sign Up Panel
 =================================================== */.sign-up {
