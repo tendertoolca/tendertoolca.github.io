@@ -65,8 +65,10 @@
 	    <link rel="stylesheet" type="text/css" media="screen and (min-width: 768px)" href="css/768.css" />
 	    <link rel="stylesheet" type="text/css" media="screen and (min-width: 1024px)" href="css/1024.css" />
 		<link rel="stylesheet" type="text/css" media="screen and (-webkit-min-device-pixel-ratio: 2)" href="css/retina-display.css" />
-	<![endif]>
-
+	<![endif
+	
+	
+	
 <!-- MEDIA QUERIES (lt IE9) -->
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" type="text/css" href="css/core/base-ie.css" />
@@ -85,9 +87,52 @@
     <script src="scripts/core/modernizr-2.6.1.min.js"></script>
     <script src="scripts/core/jquery-1.8.3.min.js"></script>
 	<script src="scripts/core/jquery.flexslider-min.js" charset="utf-8"></script>
+	
+	<style>
+	
+	/* The navigation bar */
+.navbar {
+    overflow: hidden;
+    background-color: #444;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+	  z-index: 9999999;
+	  
+}
+
+/* Links inside the navbar */
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 4px 16px;
+    text-decoration: none;
+}
+
+/* Main content */
+.wrapper-outer {
+
+    margin-top: 50px; /* Add a top margin to avoid content overlay */
+}
+
+</style>
+	
 </head>
 <body>
-    <div class="wrapper-outer">
+
+<div class="navbar">
+  <a href="#home"><h3><font size="4">Home</font></h3></a>
+  <a href="#Usp1"><h3><font size="4">Property Manager</font></h3></a>
+  <a href="#Usp2"><h3><font size="4">Contractor</font></h3></a>
+  <a href="#download"><h3><font size="4">Download</font></h3></a>
+  <a href="#contact"><h3><font size="4">Contact</font></h3></a>
+</div>
+
+
+
+    <div id = "home" class="wrapper-outer" style = "position: absolute">
 
         <!-- HERO -->
         <!-- <div class="panel group centered">
@@ -393,7 +438,7 @@
 
         <!-- YOUR HISTORY -->
 		
-		<div id="Usp1" class="wrapper-inner panel centered usp">
+		<div id="Usp2" class="wrapper-inner panel centered usp">
             <section class="content">
                 <article class="full">
    
@@ -534,7 +579,7 @@
 		--><!-- End of "wrapper-inner" -->
 
         <!-- DOWNLOAD NOW -->
-        <div id ="SignUp" class="wrapper-inner panel secondary centered sign-up">
+        <div id ="download" class="wrapper-inner panel secondary centered sign-up">
             <section class="content">
                 <article class="full">
                     <h2>What are you waiting for?</h2>
@@ -661,10 +706,10 @@
         </div> -->
         <!-- End of "wrapper-inner" -->
 
-    </div><!-- End of "wrapper-outer" -->
+    <!-- End of "wrapper-outer" -->
 
 	
-    <footer class="panel group centered">
+    <footer id = "contact" class="panel group centered" >
     <!--
 	<section>
         <div class="social">
@@ -709,7 +754,7 @@
 	
 	
 </footer>
-
+</div>
 <!-- Plugins & Snippets -->
     <script type="text/javascript" src="scripts/snippets.js"></script>
 
